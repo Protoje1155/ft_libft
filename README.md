@@ -3,7 +3,7 @@
 - The Libft library serves as a foundational toolset within the realm of C programming, providing a comprehensive suite of custom functions that complement the standard C library.
 
 ## Objective
-- Create a library containing essential C functions, including those found in string.h and stdlib.h.
+- Create a static library containing essential C functions, including those found in string.h and stdlib.h.
 
 ## Usage
 To use the Libft library in your projects, follow these steps:
