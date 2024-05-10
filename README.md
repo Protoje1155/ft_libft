@@ -14,7 +14,7 @@ git clone <repository-url>
 ```
 2. Navigate to the libft directory:
 ```
-cd libft
+cd ft_libft
 ```
 3. Compile the library:
 ```
